@@ -2,8 +2,6 @@
 
 A modern application for adding customizable grids to images with an intuitive user interface.
 
-![Grid Tool Logo](https://placeholder.com/wp-content/uploads/2018/10/placeholder.png)
-
 ## Features
 
 - **Customizable Grid Size**: Easily adjust the number of grid cells
