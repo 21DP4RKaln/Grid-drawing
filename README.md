@@ -61,10 +61,6 @@ python grid_drawing.py
 - **Panning**: Click and drag on the image to pan when zoomed in
 - **Reset Zoom**: Click "1:1" to return to original size
 
-## Keyboard Shortcuts
-
-- None implemented in the current version
-
 ## Examples
 
 Here are some examples of what you can create with Grid Tool:
@@ -91,15 +87,6 @@ A: Try increasing the line thickness or changing the grid color for better visib
   - Basic grid functionality
   - Image loading and saving
   - Rotation and zoom capabilities
-
-## Credits
-
-- Created by Nikola Lavriņenko
-- Design SVN (github - 21DP4RKaln)
-
-## License
-
-All rights reserved © 2077
 
 ---
 
